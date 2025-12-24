@@ -1,9 +1,5 @@
 # 🏥 Healthcare Patient Analytics & Decision Support Dashboard
 
-<p align="center">
-  <img src="dashboards/dashboard_overview.png" alt="Healthcare Patient Analytics Dashboard" width="900"/>
-</p
-
 ## 📌 Project Overview
 This project focuses on analyzing hospital readmission data to understand patient trends, identify high-risk groups, and uncover factors influencing readmissions. The goal is to support data-driven decision-making in healthcare operations using analytics and visualization.
 
